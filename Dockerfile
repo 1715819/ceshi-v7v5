@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxrayv7:v5
+FROM xyouxiu6/koyebvxrayv7:latest
